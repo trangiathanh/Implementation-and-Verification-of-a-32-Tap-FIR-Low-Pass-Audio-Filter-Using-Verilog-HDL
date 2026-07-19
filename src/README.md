@@ -1,4 +1,4 @@
-# DESIGN AND SIMULATION OF 32-TAP FIR LOW-PASS FILTER
+*Implementation and Verification of a 32-Tap FIR Low-Pass Audio Filter Using Verilog HDL
 
 *(Note: This project strictly focuses on system simulation using MATLAB/Simulink and ModelSim, and has not yet been implemented on an FPGA hardware board.)*
 
